@@ -1,0 +1,8 @@
+{
+  "name": "custom-pre-commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yangsun0/custom-pre-commit.git",
+  "author": "Yang Sun <yangsun@lcodej.com>",
+  "license": "MIT"
+}
