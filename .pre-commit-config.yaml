@@ -6,4 +6,4 @@ repos:
     rev: v0.14.3
     hooks:
     -   id: detect-secrets
-        args: ["--custom-plugins=detect-secrets-plugin/custom-secrete-plugin.py"]
+        args: ["--custom-plugins=node_modules/custom-pre-commit/detect-secrets-plugin/custom-secrete-plugin.py"]
