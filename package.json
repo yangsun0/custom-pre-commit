@@ -1,8 +1,8 @@
 {
-  "name": "lcodej-pre-commit",
+  "name": "pre-commit-lcodej",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/yangsun0/lcodej-pre-commit.git",
+  "repository": "https://github.com/yangsun0/pre-commit-lcodej.git",
   "author": "Yang Sun <yangsun@lcodej.com>",
   "license": "MIT"
 }
