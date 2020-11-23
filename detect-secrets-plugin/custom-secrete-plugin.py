@@ -17,5 +17,6 @@ class CustomSecreteDetector(RegexBasedDetector):
           re.IGNORECASE)
         for regexp in (
             r'.*apps\.googleusercontent\.com',
+            r'BEGIN RSA PUBLIC KEY',
         )
     ]
